@@ -1,6 +1,6 @@
-<p align="center"><img src="logo.png" alt="cal-com" width="120"></p>
-
 # Cal.com [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/cal-com/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/cal-com)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
+
+<p align="center"><img src="logo.png" alt="cal-com" width="120"></p>
 
 Open-source scheduling infrastructure. Alternative to Calendly with team scheduling, round-robin, and calendar integrations.
 
